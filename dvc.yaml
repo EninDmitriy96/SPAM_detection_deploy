@@ -1,0 +1,18 @@
+stages:
+  preprocess:
+    cmd: python code/datasets/preprocess.py
+    deps:
+      - code/datasets/preprocess.py
+      - data/raw/Spam_SMS.csv
+
+  train:
+    cmd: python code/models/train.py
+    deps:
+      - code/models/train.py
+      - data/processed/X_train.csv
+      - data/processed/X_test.csv
+      - data/processed/y_train.csv
+      - data/processed/y_test.csv
+    outs:
+      - models/vectorizer.pkl
+      - models/spam_classifier_model.pkl
