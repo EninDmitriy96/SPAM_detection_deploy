@@ -5,7 +5,7 @@ services:
     build: ./api
     container_name: spam_api
     ports:
-      - "8000:80"  # Expose FastAPI on port 8000 externally, but inside it runs on port 80
+      - "8000:80"
     volumes:
       - ../../models:/app/models
     networks:
