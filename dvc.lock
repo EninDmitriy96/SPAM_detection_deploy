@@ -1,0 +1,45 @@
+schema: '2.0'
+stages:
+  preprocess:
+    cmd: python code/datasets/preprocess.py
+    deps:
+    - path: code/datasets/preprocess.py
+      hash: md5
+      md5: 34ca1899b9377388923022b930d66583
+      size: 705
+    - path: data/raw/Spam_SMS.csv
+      hash: md5
+      md5: 381b5978873165dc583db998df122f8c
+      size: 486528
+  train:
+    cmd: python code/models/train.py
+    deps:
+    - path: code/models/train.py
+      hash: md5
+      md5: b8cde8e2f420389ab25c2af30ffbac12
+      size: 1413
+    - path: data/processed/X_test.csv
+      hash: md5
+      md5: ab161a3e6ba4ee6bf9e976bfd34c0d4e
+      size: 94602
+    - path: data/processed/X_train.csv
+      hash: md5
+      md5: a166a2c13b0c1ea4d0f928fb3c08a653
+      size: 368883
+    - path: data/processed/y_test.csv
+      hash: md5
+      md5: 70cbc2076b2b84ca6593245c0914d493
+      size: 5743
+    - path: data/processed/y_train.csv
+      hash: md5
+      md5: 91c6fa1532b6490deaa0b17a1e9bb011
+      size: 22888
+    outs:
+    - path: models/spam_classifier_model.pkl
+      hash: md5
+      md5: 6f780d40092e7e6e55bad399ed56e6f8
+      size: 247859
+    - path: models/vectorizer.pkl
+      hash: md5
+      md5: de8c1a57c03ad13945ee2b5912ccb3bd
+      size: 93671

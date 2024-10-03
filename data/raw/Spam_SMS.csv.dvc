@@ -1,0 +1,5 @@
+outs:
+- md5: 381b5978873165dc583db998df122f8c
+  size: 486528
+  hash: md5
+  path: Spam_SMS.csv

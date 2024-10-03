@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+dvc
+apache-airflow
+mlflow
+fastapi
+streamlit
+requests

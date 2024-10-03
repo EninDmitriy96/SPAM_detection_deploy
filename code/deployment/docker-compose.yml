@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+  api:
+    build: ./api
+    container_name: spam_api
+    ports:
+      - "8000:80"  # Expose FastAPI on port 8000 externally, but inside it runs on port 80
+    volumes:
+      - ../../models:/app/models
+    networks:
+      - app-network
+
+  app:
+    build: ./app
+    container_name: spam_app
+    ports:
+      - "8501:8501"
+    depends_on:
+      - api
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
