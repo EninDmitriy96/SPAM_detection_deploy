@@ -1,0 +1,183 @@
+
+2024-10-03 15:21:04,254 INFO - Setting up TriggererHandlerWrapper with handler <FileTaskHandler (NOTSET)>
+2024-10-03 15:21:04,261 INFO - Setting up logging queue listener with handlers [<RedirectStdHandler <stdout> (NOTSET)>, <NonCachingFileHandler /mnt/d/PythonProjects/deployment_assignment/services/airflow/logs/triggerer.log (NOTSET)>, <TriggererHandlerWrapper (NOTSET)>]
+2024-10-03 15:21:05,321 INFO - Starting the triggerer
+2024-10-03 15:22:06,020 INFO - 0 triggers currently running
+2024-10-03 15:23:06,633 INFO - 0 triggers currently running
+2024-10-03 15:24:07,200 INFO - 0 triggers currently running
+2024-10-03 15:25:07,706 INFO - 0 triggers currently running
+2024-10-03 15:26:08,336 INFO - 0 triggers currently running
+2024-10-03 15:27:08,914 INFO - 0 triggers currently running
+2024-10-03 15:28:09,424 INFO - 0 triggers currently running
+2024-10-03 15:29:09,943 INFO - 0 triggers currently running
+2024-10-03 15:30:10,470 INFO - 0 triggers currently running
+2024-10-03 15:31:11,015 INFO - 0 triggers currently running
+2024-10-03 15:32:11,527 INFO - 0 triggers currently running
+2024-10-03 15:33:12,055 INFO - 0 triggers currently running
+2024-10-03 15:34:12,604 INFO - 0 triggers currently running
+2024-10-03 15:34:19,398 INFO - Waiting for triggers to clean up
+2024-10-03 15:34:19,622 INFO - Exited trigger loop
+2024-10-03 15:37:16,513 INFO - Setting up TriggererHandlerWrapper with handler <FileTaskHandler (NOTSET)>
+2024-10-03 15:37:16,519 INFO - Setting up logging queue listener with handlers [<RedirectStdHandler <stdout> (NOTSET)>, <NonCachingFileHandler /mnt/d/PythonProjects/deployment_assignment/services/airflow/logs/triggerer.log (NOTSET)>, <TriggererHandlerWrapper (NOTSET)>]
+2024-10-03 15:37:17,575 INFO - Starting the triggerer
+2024-10-03 15:38:18,008 INFO - 0 triggers currently running
+2024-10-03 15:39:18,567 INFO - 0 triggers currently running
+2024-10-03 15:40:19,390 INFO - 0 triggers currently running
+2024-10-03 15:41:19,449 INFO - 0 triggers currently running
+2024-10-03 15:42:19,733 INFO - 0 triggers currently running
+2024-10-03 15:43:20,445 INFO - 0 triggers currently running
+2024-10-03 15:44:20,769 INFO - 0 triggers currently running
+2024-10-03 15:45:21,358 INFO - 0 triggers currently running
+2024-10-03 15:46:21,576 INFO - 0 triggers currently running
+2024-10-03 15:47:21,667 INFO - 0 triggers currently running
+2024-10-03 15:48:22,633 INFO - 0 triggers currently running
+2024-10-03 15:49:22,654 INFO - 0 triggers currently running
+2024-10-03 15:50:22,704 INFO - 0 triggers currently running
+2024-10-03 15:51:22,768 INFO - 0 triggers currently running
+2024-10-03 15:52:22,813 INFO - 0 triggers currently running
+2024-10-03 15:53:22,846 INFO - 0 triggers currently running
+2024-10-03 15:54:22,898 INFO - 0 triggers currently running
+2024-10-03 15:55:22,907 INFO - 0 triggers currently running
+2024-10-03 16:03:48,866 INFO - Setting up TriggererHandlerWrapper with handler <FileTaskHandler (NOTSET)>
+2024-10-03 16:03:48,968 INFO - Setting up logging queue listener with handlers [<RedirectStdHandler <stdout> (NOTSET)>, <NonCachingFileHandler /mnt/d/PythonProjects/deployment_assignment/services/airflow/logs/triggerer.log (NOTSET)>, <TriggererHandlerWrapper (NOTSET)>]
+2024-10-03 16:03:50,034 INFO - Starting the triggerer
+2024-10-03 16:04:50,529 INFO - 0 triggers currently running
+2024-10-03 16:05:50,795 INFO - 0 triggers currently running
+2024-10-03 16:06:51,268 INFO - 0 triggers currently running
+2024-10-03 16:07:51,893 INFO - 0 triggers currently running
+2024-10-03 16:08:52,408 INFO - 0 triggers currently running
+2024-10-03 16:09:52,480 INFO - 0 triggers currently running
+2024-10-03 16:10:06,213 INFO - Waiting for triggers to clean up
+2024-10-03 16:10:06,501 INFO - Exited trigger loop
+2024-10-03 16:27:30,887 INFO - Setting up TriggererHandlerWrapper with handler <FileTaskHandler (NOTSET)>
+2024-10-03 16:27:30,982 INFO - Setting up logging queue listener with handlers [<RedirectStdHandler <stdout> (NOTSET)>, <NonCachingFileHandler /mnt/d/PythonProjects/deployment_assignment/services/airflow/logs/triggerer.log (NOTSET)>, <TriggererHandlerWrapper (NOTSET)>]
+2024-10-03 16:27:32,036 INFO - Starting the triggerer
+2024-10-03 16:28:32,793 INFO - 0 triggers currently running
+2024-10-03 16:29:33,609 INFO - 0 triggers currently running
+2024-10-03 16:30:34,510 INFO - 0 triggers currently running
+2024-10-03 16:31:35,114 INFO - 0 triggers currently running
+2024-10-03 16:32:35,694 INFO - 0 triggers currently running
+2024-10-03 16:33:36,415 INFO - 0 triggers currently running
+2024-10-03 16:34:36,793 INFO - 0 triggers currently running
+2024-10-03 16:35:37,230 INFO - 0 triggers currently running
+2024-10-03 16:36:37,669 INFO - 0 triggers currently running
+2024-10-03 16:37:38,245 INFO - 0 triggers currently running
+2024-10-03 16:38:38,724 INFO - 0 triggers currently running
+2024-10-03 16:39:39,280 INFO - 0 triggers currently running
+2024-10-03 16:40:39,713 INFO - 0 triggers currently running
+2024-10-03 16:41:40,283 INFO - 0 triggers currently running
+2024-10-03 16:42:40,825 INFO - 0 triggers currently running
+2024-10-03 16:43:41,305 INFO - 0 triggers currently running
+2024-10-03 16:44:41,482 INFO - 0 triggers currently running
+2024-10-03 16:45:42,471 INFO - 0 triggers currently running
+2024-10-03 16:46:42,845 INFO - 0 triggers currently running
+2024-10-03 16:47:43,502 INFO - 0 triggers currently running
+2024-10-03 16:48:43,613 INFO - 0 triggers currently running
+2024-10-03 16:49:43,761 INFO - 0 triggers currently running
+2024-10-03 16:50:43,996 INFO - 0 triggers currently running
+2024-10-03 16:51:44,183 INFO - 0 triggers currently running
+2024-10-03 16:52:44,375 INFO - 0 triggers currently running
+2024-10-03 16:53:44,546 INFO - 0 triggers currently running
+2024-10-03 16:54:44,596 INFO - 0 triggers currently running
+2024-10-03 16:55:44,741 INFO - 0 triggers currently running
+2024-10-03 16:56:44,874 INFO - 0 triggers currently running
+2024-10-03 16:57:44,896 INFO - 0 triggers currently running
+2024-10-03 16:58:45,005 INFO - 0 triggers currently running
+2024-10-03 16:59:45,103 INFO - 0 triggers currently running
+2024-10-03 17:00:46,087 INFO - 0 triggers currently running
+2024-10-03 17:01:46,203 INFO - 0 triggers currently running
+2024-10-03 17:02:46,274 INFO - 0 triggers currently running
+2024-10-03 17:03:47,256 INFO - 0 triggers currently running
+2024-10-03 19:51:22,811 INFO - Setting up TriggererHandlerWrapper with handler <FileTaskHandler (NOTSET)>
+2024-10-03 19:51:22,829 INFO - Setting up logging queue listener with handlers [<RedirectStdHandler <stdout> (NOTSET)>, <NonCachingFileHandler /mnt/d/PythonProjects/deployment_assignment/services/airflow/logs/triggerer.log (NOTSET)>, <TriggererHandlerWrapper (NOTSET)>]
+2024-10-03 19:51:23,887 INFO - Starting the triggerer
+2024-10-03 19:52:23,962 INFO - 0 triggers currently running
+2024-10-03 19:53:24,835 INFO - 0 triggers currently running
+2024-10-03 19:54:25,564 INFO - 0 triggers currently running
+2024-10-03 19:55:26,214 INFO - Waiting for triggers to clean up
+2024-10-03 19:55:26,503 INFO - 0 triggers currently running
+2024-10-03 19:55:26,504 INFO - Exited trigger loop
+2024-10-03 20:00:20,873 INFO - Setting up TriggererHandlerWrapper with handler <FileTaskHandler (NOTSET)>
+2024-10-03 20:00:20,891 INFO - Setting up logging queue listener with handlers [<RedirectStdHandler <stdout> (NOTSET)>, <NonCachingFileHandler /mnt/d/PythonProjects/deployment_assignment/services/airflow/logs/triggerer.log (NOTSET)>, <TriggererHandlerWrapper (NOTSET)>]
+2024-10-03 20:00:21,971 INFO - Starting the triggerer
+2024-10-03 20:01:22,740 INFO - 0 triggers currently running
+2024-10-03 20:02:23,403 INFO - 0 triggers currently running
+2024-10-03 20:03:24,062 INFO - 0 triggers currently running
+2024-10-03 20:04:21,350 INFO - Waiting for triggers to clean up
+2024-10-03 20:04:22,152 INFO - Exited trigger loop
+2024-10-03 20:06:38,685 INFO - Setting up TriggererHandlerWrapper with handler <FileTaskHandler (NOTSET)>
+2024-10-03 20:06:38,691 INFO - Setting up logging queue listener with handlers [<RedirectStdHandler <stdout> (NOTSET)>, <NonCachingFileHandler /mnt/d/PythonProjects/deployment_assignment/services/airflow/logs/triggerer.log (NOTSET)>, <TriggererHandlerWrapper (NOTSET)>]
+2024-10-03 20:06:39,762 INFO - Starting the triggerer
+2024-10-03 20:07:40,007 INFO - 0 triggers currently running
+2024-10-03 20:08:40,126 INFO - 0 triggers currently running
+2024-10-03 20:09:40,195 INFO - 0 triggers currently running
+2024-10-03 20:10:40,213 INFO - 0 triggers currently running
+2024-10-03 20:11:41,016 INFO - 0 triggers currently running
+2024-10-03 20:12:41,960 INFO - 0 triggers currently running
+2024-10-03 20:13:42,899 INFO - 0 triggers currently running
+2024-10-03 20:14:43,882 INFO - 0 triggers currently running
+2024-10-03 20:15:44,871 INFO - 0 triggers currently running
+2024-10-03 20:16:45,782 INFO - 0 triggers currently running
+2024-10-03 20:17:46,656 INFO - 0 triggers currently running
+2024-10-03 20:18:47,545 INFO - 0 triggers currently running
+2024-10-03 20:19:48,403 INFO - 0 triggers currently running
+2024-10-03 20:20:48,578 INFO - 0 triggers currently running
+2024-10-03 20:21:49,334 INFO - 0 triggers currently running
+2024-10-03 20:22:50,207 INFO - 0 triggers currently running
+2024-10-03 20:23:51,044 INFO - 0 triggers currently running
+2024-10-03 20:24:51,906 INFO - 0 triggers currently running
+2024-10-03 20:25:52,795 INFO - 0 triggers currently running
+2024-10-03 20:26:53,609 INFO - 0 triggers currently running
+2024-10-03 20:27:54,471 INFO - 0 triggers currently running
+2024-10-03 20:28:55,319 INFO - 0 triggers currently running
+2024-10-03 20:29:56,122 INFO - 0 triggers currently running
+2024-10-03 20:30:56,917 INFO - 0 triggers currently running
+2024-10-03 20:31:50,006 INFO - Waiting for triggers to clean up
+2024-10-03 20:31:50,749 INFO - Exited trigger loop
+2024-10-03 20:38:15,275 INFO - Setting up TriggererHandlerWrapper with handler <FileTaskHandler (NOTSET)>
+2024-10-03 20:38:15,307 INFO - Setting up logging queue listener with handlers [<RedirectStdHandler <stdout> (NOTSET)>, <NonCachingFileHandler /mnt/d/PythonProjects/deployment_assignment/services/airflow/logs/triggerer.log (NOTSET)>, <TriggererHandlerWrapper (NOTSET)>]
+2024-10-03 20:38:16,521 INFO - Starting the triggerer
+2024-10-03 20:38:35,341 INFO - Triggerer's async thread was blocked for 0.26 seconds, likely by a badly-written trigger. Set PYTHONASYNCIODEBUG=1 to get more information on overrunning coroutines.
+2024-10-03 20:39:17,249 INFO - 0 triggers currently running
+2024-10-03 20:40:18,028 INFO - 0 triggers currently running
+2024-10-03 20:41:18,716 INFO - 0 triggers currently running
+2024-10-03 20:42:19,484 INFO - 0 triggers currently running
+2024-10-03 20:43:20,163 INFO - 0 triggers currently running
+2024-10-03 20:44:20,858 INFO - 0 triggers currently running
+2024-10-03 20:45:21,563 INFO - 0 triggers currently running
+2024-10-03 20:46:22,204 INFO - 0 triggers currently running
+2024-10-03 20:47:22,804 INFO - 0 triggers currently running
+2024-10-03 20:48:23,531 INFO - 0 triggers currently running
+2024-10-03 20:49:24,467 INFO - 0 triggers currently running
+2024-10-03 20:50:25,147 INFO - 0 triggers currently running
+2024-10-03 20:51:25,808 INFO - 0 triggers currently running
+2024-10-03 20:52:26,511 INFO - 0 triggers currently running
+2024-10-03 20:53:27,200 INFO - 0 triggers currently running
+2024-10-03 20:54:27,885 INFO - 0 triggers currently running
+2024-10-03 20:55:28,572 INFO - 0 triggers currently running
+2024-10-03 20:56:29,361 INFO - 0 triggers currently running
+2024-10-03 20:57:30,072 INFO - 0 triggers currently running
+2024-10-03 20:58:30,783 INFO - 0 triggers currently running
+2024-10-03 20:59:31,544 INFO - 0 triggers currently running
+2024-10-03 21:00:32,282 INFO - 0 triggers currently running
+2024-10-03 21:01:32,959 INFO - 0 triggers currently running
+2024-10-03 21:02:33,666 INFO - 0 triggers currently running
+2024-10-03 21:03:34,428 INFO - 0 triggers currently running
+2024-10-03 21:04:35,159 INFO - 0 triggers currently running
+2024-10-03 21:05:35,852 INFO - 0 triggers currently running
+2024-10-03 21:06:36,658 INFO - 0 triggers currently running
+2024-10-03 21:07:36,850 INFO - 0 triggers currently running
+2024-10-03 21:08:37,787 INFO - 0 triggers currently running
+2024-10-03 21:09:38,615 INFO - 0 triggers currently running
+2024-10-03 21:10:39,476 INFO - 0 triggers currently running
+2024-10-03 21:11:40,314 INFO - 0 triggers currently running
+2024-10-03 21:12:41,165 INFO - 0 triggers currently running
+2024-10-03 21:13:42,026 INFO - 0 triggers currently running
+2024-10-03 21:14:42,950 INFO - 0 triggers currently running
+2024-10-03 21:15:43,780 INFO - 0 triggers currently running
+2024-10-03 21:16:44,606 INFO - 0 triggers currently running
+2024-10-03 21:17:45,444 INFO - 0 triggers currently running
+2024-10-03 21:18:46,289 INFO - 0 triggers currently running
+2024-10-03 21:19:47,145 INFO - 0 triggers currently running
+2024-10-03 21:20:47,978 INFO - 0 triggers currently running
+2024-10-03 21:21:48,901 INFO - 0 triggers currently running
